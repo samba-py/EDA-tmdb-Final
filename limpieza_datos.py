@@ -20,6 +20,8 @@ def clean_data(raw_data):
 
     df['release_date'] = pd.to_datetime(df['release_date'])
     df['genre_ids'] = df['genre_ids'].apply(lambda x: x.split(',') if isinstance(x, str) else x)
+
+    #seguir aca con los cambios
     
     print("Tipos de datos por columna:")
     print(df.dtypes)
