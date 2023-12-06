@@ -22,8 +22,8 @@ def get_genre_numbers():
     genre_id_text = response.json()
 
 
-    print(response.text)
-    print(genre_id_text)
-    return response
+    #print(response.text)
+    #print(genre_id_text)
+    return genre_id_text
 
 
