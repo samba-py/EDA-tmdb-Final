@@ -12,4 +12,8 @@
 #eda.py se hace el analisis de los datos. se evaluan relaciones entre mes de lanzamiento y popularidad,
 # mes de lanzamiento y voto promedio, popularidad por genero y distribucion de genero
 # Conclusiones 
-# El genero mas popular es Music pero tambien es el que menos cantidad 
+# El genero mas popular es Music pero tambien esta tambien en los que menos proporcion de tiene por lo cual podria representar
+# una oportunidad para producir mayor cantidad de peliculas de este genero. Se noto una tendencia de en la relacion de meses y 
+# popularidad, se ve que del mes 6 al mes 10 se tiene un crecimiento que luego baja del  10 al 12 para subir del 12 al 3 y bajar 
+# del 3 al 6. Sin embargo se notaron varios outliers en este analizis por lo cual se recomienda hacer un analisis posterior para 
+# ver si se pueden eliminar o si son relevantes. 
