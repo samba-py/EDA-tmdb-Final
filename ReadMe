@@ -7,4 +7,6 @@
 #
 #Resumen de trabajo por File
 # request_api.py En este se baja la API. 
-# limpieza_datos.py En este se limpia la base. Se realizan las siguientes acciones, 
+# limpieza_datos.py En este se limpia la base. Se realizan las siguientes acciones: se analizan y eliminan datos nulos,
+# se cambia el formato de la columna "release_date", se cambia los id de cada genero por texto y se eliminan columnas no relevantes
+#eda.py 
