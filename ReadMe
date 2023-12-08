@@ -2,4 +2,4 @@
 # El objetivo de este trabajo es limpiar y analizar la base de datos de una productora de peliculas para mejorar 
 # la toma la decision de que peliculas producir y cuando. 
 # Requerimientos
-# Instalar bibliotecas 
+# Instalar librerias pandas, 
