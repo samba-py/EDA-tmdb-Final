@@ -3,4 +3,4 @@
 # la toma la decision de que peliculas producir y cuando. 
 # Requerimientos
 # Instalar librerias pandas, matplotlib.pyplot, seaborn, request y warnings.
-#
+# Se utilizara datos de siguiente API "https://api.themoviedb.org/3"
