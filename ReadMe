@@ -11,3 +11,5 @@
 # se cambia el formato de la columna "release_date", se cambia los id de cada genero por texto y se eliminan columnas no relevantes
 #eda.py se hace el analisis de los datos. se evaluan relaciones entre mes de lanzamiento y popularidad,
 # mes de lanzamiento y voto promedio, popularidad por genero y distribucion de genero
+# Conclusiones 
+# El genero mas popular es Music pero tambien es el que menos cantidad 
