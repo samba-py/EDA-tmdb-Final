@@ -5,4 +5,6 @@
 # Instalar librerias pandas, matplotlib.pyplot, seaborn, request y warnings.
 # Se utilizara datos de una API, para acceder a esta esta el siguiente link "https://api.themoviedb.org/3"
 #
-#
+#Resumen de trabajo por File
+# request_api.py En este se baja la API. 
+# limpieza_datos.py En este se limpia la base. Se realizan las siguientes acciones, 
